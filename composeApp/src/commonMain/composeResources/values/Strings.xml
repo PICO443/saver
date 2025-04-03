@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="balance">Balance</string>
+    <string name="family_cut">Family</string>
+    <string name="expenses_cut">Expenses</string>
+    <string name="saving_cut">Saving</string>
+</resources>
